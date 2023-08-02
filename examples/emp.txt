@@ -1,0 +1,3 @@
+Raghu|Ramakrish|32|M|3000
+Sita|Ramakrish|32|F|3000
+Raghu|Prasadh|32|M|6000

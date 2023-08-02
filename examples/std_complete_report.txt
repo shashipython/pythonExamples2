@@ -1,0 +1,10 @@
+====================
+     Student Details     
+====================
+|Name|DOB|Fathe Name|Address|Class|Contact|Total|Result|
+====================
+aa:1/12/1:ww:123:2:1234:102:FAIL
+bb:;l;d
+cc
+
+====================

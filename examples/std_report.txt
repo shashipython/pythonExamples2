@@ -1,0 +1,9 @@
+====================
+     Student Details     
+====================
+Name:Rama
+age :  20
+contact :  999888
+add :  BTM
+Total:168
+====================

@@ -1,0 +1,17 @@
+>>> 1/0
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ZeroDivisionError: integer division or modulo by zero
+>>> 1+'str'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+>>> l=[1,2]
+>>> l[3]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: list index out of range
+>>> d['k']
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+KeyError: 'k'
